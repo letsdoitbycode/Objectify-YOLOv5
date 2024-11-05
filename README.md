@@ -56,7 +56,7 @@ This project is a real-time object detection system that leverages the YOLOv5 mo
 Objectify-YOLOv5/
 │
 ├── templates/
-│   └── index.html          # HTML file for UI Interface
+│   └── index.html          # HTML file for UI 
 ├── static/
 │   └── styles.css          # CSS file for styling
 ├── venv                    # Virtual environment
