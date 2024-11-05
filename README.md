@@ -58,7 +58,7 @@ Objectify-YOLOv5/
 ├── templates/
 │   └── index.html          # HTML file for UI 
 ├── static/
-│   └── styles.css          # CSS file for styling
+│   └── style.css          # CSS file for styling
 ├── venv                    # Virtual environment
 ├── yolov5                  # Model YOLOv5 
 ├── README.md               # This README file
