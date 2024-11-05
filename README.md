@@ -41,12 +41,12 @@ This project is a real-time object detection system that leverages the YOLOv5 mo
    pip install -r requirements.txt
    ```
 
-4.1 Return to the main project folder:
+5. Return to the main project folder:
    ```sh
    cd..
    ```
    
-5. Run the Flask app:
+6. Run the Flask app:
     ```sh
    python app.py
     ```
